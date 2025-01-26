@@ -9,7 +9,7 @@
   .nav-list__item {
     margin-top: -23px;
 
-    .nav-item__link {
+    .__link {
       color: $white-color;
       font-family: $roboto-fonts;
       font-size: 17px;
@@ -19,7 +19,7 @@
       letter-spacing: 0.17px;
     }
 
-    .nav-item__button {
+    .__button {
       color: #2C313A;
       text-align: center;
       font-family: $roboto-fonts;
